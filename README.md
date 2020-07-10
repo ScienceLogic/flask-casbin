@@ -1,5 +1,6 @@
 flask-casbin
 ===============================
+:rotating_light: This project has been merged into the official Flask implementation [Flask-authz](https://github.com/pycasbin/flask-authz) :rotating_light: 
 
 A Flask Casbin interface that allows you to decorate routes
 
